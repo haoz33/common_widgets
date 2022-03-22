@@ -2,3 +2,4 @@
 
 * CenterLoadingWidget
 * DynamicTextField
+* IconText

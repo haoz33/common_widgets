@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+/// A text widget with trailing icon.
+/// The default icon size is 18, this can be changed use the size property within the Icon Widget.
 class IconText extends StatelessWidget {
   const IconText({Key? key, required this.text, required this.icon})
       : super(key: key);
