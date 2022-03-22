@@ -1,7 +1,2 @@
-library common_widgets;
-
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export './src/widgets/center_loading_widget.dart';
+export './src/widgets/dynamic_text_field.dart';
