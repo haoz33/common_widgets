@@ -8,5 +8,5 @@ This repository consists of common widgets that I have used throughout multiple 
 dependencies:
   common_widgets:
     git:
-      url: git://github.com/haoz33/common_widgets.git
+      url: https://github.com/haoz33/common_widgets.git
 ```
