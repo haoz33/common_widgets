@@ -14,8 +14,11 @@ class IconText extends StatelessWidget {
           WidgetSpan(
               child: Icon(
             icon.icon,
-            size: 18,
+            size: icon.size ?? 18,
             color: icon.color,
+            semanticLabel: icon.semanticLabel,
+            key: icon.key,
+            textDirection: icon.textDirection,
           )),
         ],
       ),
